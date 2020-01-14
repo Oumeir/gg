@@ -1,0 +1,2 @@
+careers.elsewedyelectric.com. CNAME c167.bayt.com.
+ir.elsewedyelectric.com. CNAME swdy.v3.inktankir.com.
